@@ -603,6 +603,12 @@
               "name": "AnalyzeID",
               "type": "url",
               "url": "http://analyzeid.com/"
+            },
+            {
+              "id": "1334",
+              "name": "SiteSleuth",
+              "type": "url",
+              "url": "https://www.sitesleuth.io/search"
             }
           ],
           "id": "112",
@@ -8187,5 +8193,5 @@
   "id": "1",
   "name": "OSINT Framework",
   "type": "folder",
-  "desc": "Next Available ID: 1333"
+  "desc": "Next Available ID: 1335"
 }
